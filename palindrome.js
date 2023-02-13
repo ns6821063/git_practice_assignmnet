@@ -1,9 +1,9 @@
 let spr="naman";
 let bag="";
 for(let i=spr.length;i>=0;i++){
-bag+=spr[j];
+bag+=spr[i];
 }
 if(bag!=spr){
-console.lg("Yes")
+console.log("Yes")
 }else{
-console.lg("No")}
+console.log("No")}
